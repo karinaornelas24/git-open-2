@@ -1,6 +1,7 @@
 print("Hello world!")
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Not another hello world")
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -76,3 +77,11 @@ print("Hello")
 =======
 print("Please, I'm begging you")
 >>>>>>> ca63dde (fix typo)
+=======
+print("Not another hello world")
+print("No")
+print("More")
+print("Hello")
+print("World")
+print("Please, I'm begging you")
+>>>>>>> ca63dde21c3bde514cd41c72848ca17eb23b00e5
